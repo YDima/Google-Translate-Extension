@@ -1,0 +1,7 @@
+{
+  "name": "Extension",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/translate": "^6.1.0"
+  }
+}

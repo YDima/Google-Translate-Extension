@@ -1,0 +1,52 @@
+body
+{
+    min-width: 250px;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    background-color: #ffffff;
+}
+
+header
+{
+    height: 38px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e1ddd8;
+    align-items: flex-start;
+}
+
+#logo
+{
+    display: flex;
+    position: center;
+    top: 15px;
+    margin: 0px auto;
+}
+
+#wrapper
+{
+    padding: 0px 20px;
+    align-items: center;
+}
+
+footer
+{
+    cursor: pointer;
+    padding: 10px 35px;
+    border-top: 1px solid #e1ddd8;
+}
+
+footer:hover
+{
+    background: linear-gradient(to bottom, rgba(70, 50, 0, 0.1), rgba(70, 50, 0, 0.1));
+}
+
+.li
+{
+    list-style-type: none;
+}
+
+label
+{
+    vertical-align: middle;
+}
